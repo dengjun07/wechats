@@ -304,7 +304,7 @@ public class WeChatApiUtil {
         //媒体文件路径
 //        String filePath = "H:\\Workspaces\\IntelliJ IDEA\\wechats\\web\\media\\image\\20170614.jpg";
 //        String filePath = "H:\\Workspaces\\IntelliJ IDEA\\wechats\\web\\media\\voice\\voice.mp3";
-        String filePath = "H:\\Workspaces\\IntelliJ IDEA\\wechats\\web\\media\\video\\小苹果.mp4";
+        String filePath = "D:\\Workspaces\\IntelliJ IDEA\\wechats\\web\\media\\video\\小苹果.mp4";
         //媒体文件类型
 //        String type = "image";
 //        String type = "voice";

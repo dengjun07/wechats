@@ -18,8 +18,8 @@ import javax.servlet.http.HttpServlet;
         urlPatterns = {"/AccessTokenServlet"},
         loadOnStartup = 1,
         initParams = {
-                @WebInitParam(name = "appId", value = "**"),
-                @WebInitParam(name = "appSecret", value = "***")
+                @WebInitParam(name = "appId", value = "wxfe9505fd424b6daf"),
+                @WebInitParam(name = "appSecret", value = "a8b736e98d878dfc7d6b095699058909")
         })
 public class AccessTokenServlet extends HttpServlet {
 

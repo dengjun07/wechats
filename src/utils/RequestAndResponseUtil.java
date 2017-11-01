@@ -12,6 +12,10 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * 微信公众号消息推送、回复，菜单栏创建
+ */
+
+/**
  * 消息处理工具类
  * 接收和
  * 返回

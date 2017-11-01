@@ -10,7 +10,7 @@ import java.util.Map;
  * 根据不同的消息类型处理
  * Created by b6762 on 2017/6/14.
  */
-public class HandleMessagesUtil {
+class HandleMessagesUtil {
     /**
      * 接收到文本消息后处理
      * @param map 封装了解析结果的Map
@@ -50,7 +50,7 @@ public class HandleMessagesUtil {
                 break;
             case "视频":
                 Video video = new Video();
-                video.mediaId = "2qaaOku4eUeTmHt0TrxCbedsrgw966Z5j8MUmyNtOCMIObQfDCwnkUch7qPsLtPq";
+                video.mediaId = "WdCwqe_R98ueL9chPFGeVEHDXg3pSv276VliNjtPbAqaxGz_RnhT4NXERDk06dfx";
                 video.title = "小苹果";
                 video.description = "小苹果搞笑视频";
                 responseMessage = BuildResponseMessagesUtil.buildVideoMessage(map, video);
